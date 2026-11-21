@@ -1,0 +1,49 @@
+Alex Rivera
+San Jose, CA | +1 (408) 555-0192 | alex.rivera.dev@gmail.com
+LinkedIn: https://www.linkedin.com/in/alexrivera-cloud
+GitHub: https://github.com/alexrivera-eng
+
+SUMMARY
+Senior Data and Machine Learning Engineer with over 7 years of hands-on experience building distributed data architectures, streaming analytics pipelines, and production Generative AI applications. Proven ability to scale data platforms to handle petabyte-scale datasets and reduce model inference latency by up to 60%.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Java, SQL, Go, Scala, Bash
+AI / ML Frameworks: PyTorch, Hugging Face, LangChain, TensorFlow, Scikit-learn
+Data Systems & Streaming: Apache Spark, Apache Kafka, Apache Flink, Snowflake, BigQuery, PostgreSQL, Redis
+Cloud & Infrastructure: AWS (S3, EMR, SageMaker, Lambda), Google Cloud Platform (GCS, Dataproc, Vertex AI), Docker, Kubernetes, Terraform
+
+WORK EXPERIENCE
+
+Lead AI / Data Platform Engineer
+Quantum Analytics Inc. - Sunnyvale, CA
+June 2022 - Present
+- Architected enterprise LLM-powered document intelligence pipeline processing 250,000+ contracts and financial statements monthly using LangChain, Gemini API, and vector embeddings.
+- Scaled real-time streaming pipeline using Apache Kafka and Spark Streaming, decreasing end-to-end data latency from 45 minutes to sub-second.
+- Mentored a distributed team of 8 data engineers across three global offices; spearheaded code review quality standards and automated CI/CD testing.
+
+Senior Data Engineer
+Starlight Financial - San Francisco, CA
+August 2018 - May 2022
+- Designed and maintained petabyte-scale data warehouse on Snowflake and AWS S3, improving complex query performance by 45%.
+- Implemented automated data quality validation frameworks using Pydantic and Great Expectations, catching schema drifts and reducing data pipeline downtime by 70%.
+- Built automated ETL orchestration pipelines using Apache Airflow and dbt.
+
+EDUCATION
+San Jose State University - San Jose, CA
+Master of Science in Computer Science
+August 2016 - May 2018 | GPA: 3.92 / 4.0
+
+University of California, Davis - Davis, CA
+Bachelor of Science in Electrical Engineering & Computer Science
+September 2012 - June 2016 | GPA: 3.78 / 4.0
+
+PROJECTS
+DocuQuery-LLM (https://github.com/alexrivera-eng/docuquery-llm)
+- Open-source RAG-based document question-answering system using hybrid dense/sparse vector search, serving over 1,500 active GitHub stars.
+FastSpark-Optimizer (https://github.com/alexrivera-eng/fastspark)
+- Lightweight Python package that analyzes PySpark query execution plans and suggests optimal partition strategies and shuffle thresholds.
+
+CERTIFICATIONS
+- Google Cloud Professional Data Engineer (Google Cloud, 2023)
+- AWS Certified Solutions Architect - Associate (Amazon Web Services, 2021)
+- Databricks Certified Spark Developer (Databricks, 2022)

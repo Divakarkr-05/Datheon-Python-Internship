@@ -1,0 +1,25 @@
+{
+    "name": "DIVA",
+    "email": "diva@example.com",
+    "phone": "+91 9876543210",
+    "location": "Bengaluru, Karnataka",
+    "skills": [
+        "Python",
+        "SQL",
+        "Machine Learning",
+        "Pandas",
+        "Scikit-learn",
+        "Git",
+        "Docker"
+    ],
+    "education": [
+        {
+            "degree": "B.Tech Computer Science and Engineering",
+            "institution": "Presidency University",
+            "year": "2028"
+        }
+    ],
+    "experience": [
+        "Data Science Intern - ABC Technologies: Worked on data preprocessing and machine learning models."
+    ]
+}

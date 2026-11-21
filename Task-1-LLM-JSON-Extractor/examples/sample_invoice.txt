@@ -1,0 +1,39 @@
+Apex Cloud Technologies LLC
+900 Innovation Way, Suite 500, San Francisco, CA 94105
+Phone: +1 (415) 555-0188
+Email: accounts@apexcloudtech.io
+Website: https://www.apexcloudtech.io
+Tax ID: US-882910482
+
+INVOICE
+------------------------------------------------------------
+Invoice Number : INV-2025-4491
+Invoice Date   : January 15, 2025
+Payment Due    : February 14, 2025
+Currency       : USD
+
+BILLED TO:
+TechCorp Solutions Inc.
+450 Enterprise Boulevard, Floor 12, New York, NY 10001
+Contact Name   : David Miller (VP of Engineering)
+Email          : dmiller@techcorpsolutions.com
+Phone          : +1 (212) 555-7734
+Client Tax ID  : NY-9938201
+
+LINE ITEMS:
+---------------------------------------------------------------------------------
+Item Description                               Qty    Unit Price ($)   Total ($)
+---------------------------------------------------------------------------------
+Enterprise Cloud Migration Architecture (Hrs)  40.0   $180.00          $7,200.00
+Kubernetes High Availability Cluster Setup     1.0    $3,500.00        $3,500.00
+Automated CI/CD Pipeline Configuration         2.0    $1,250.00        $2,500.00
+Dedicated Security & Compliance Audit          1.0    $2,800.00        $2,800.00
+---------------------------------------------------------------------------------
+
+FINANCIAL SUMMARY:
+Subtotal       : $16,000.00
+State Tax (8%) : $1,280.00
+Grand Total    : $17,280.00
+
+TERMS & NOTES:
+Payment is due within 30 days of invoice date. Please transfer funds to Apex Corporate Account #99281726, Routing #021000021. Thank you for your business!
