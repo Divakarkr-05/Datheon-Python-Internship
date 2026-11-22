@@ -1,0 +1,17 @@
+Datheon Security & Remote Work Policy (2026)
+
+Section 1: Working Hours & Leave Allowance
+- Standard workweek consists of 40 hours (Monday through Friday).
+- Annual paid time off (PTO): 24 days per calendar year.
+- Sick leave: 10 days per calendar year.
+- Public holidays: 12 days per calendar year.
+
+Section 2: Equipment & Reimbursements
+- Home office setup stipend: $1,200 USD one-time allowance.
+- Monthly broadband internet subsidy: $75 USD per month.
+- Hardware refresh cycle: Every 24 months.
+
+Section 3: AI Code Assistance & Tool Usage Guidelines
+- All internal development must adhere to sandboxed execution boundaries.
+- External API keys must be stored strictly in local environment variables (.env) and never hardcoded in source control.
+- Automated testing coverage threshold for Python modules is 80%.

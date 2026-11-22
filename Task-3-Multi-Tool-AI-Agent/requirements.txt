@@ -1,0 +1,29 @@
+# ==============================================================================
+# Datheon Internship Task 3: Multi-Tool Autonomous AI Agent
+# Pinned Stable Dependencies (Windows 11 & Python 3.11.5 Compatible)
+# ==============================================================================
+
+# LangChain Core and Agent Ecosystem
+langchain>=0.3.14,<0.4.0
+langchain-community>=0.3.14,<0.4.0
+langchain-core>=0.3.29,<0.4.0
+langchain-google-genai==2.0.8
+
+# Search Providers
+ddgs>=9.0.0
+tavily-python>=0.5.0
+
+# Document & PDF Processing
+pypdf>=5.1.0,<6.0.0
+
+# Environment & CLI Display
+python-dotenv>=1.0.1,<2.0.0
+rich>=13.7.0
+
+# Windows Application Control Verified Sub-dependencies
+grpcio==1.67.1
+grpcio-status==1.67.1
+regex==2024.11.6
+
+# Testing Framework
+pytest>=8.3.4,<9.0.0

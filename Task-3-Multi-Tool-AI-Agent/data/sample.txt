@@ -1,0 +1,19 @@
+Datheon Python Internship - Task 3 Sample Document
+Title: Company Overview and Financial Summary
+
+Datheon Analytics is an artificial intelligence research and enterprise intelligence company.
+Founded: 2021
+Headquarters: Bengaluru, India
+Total Employees: 450
+Annual Revenue (2025): $12,500,000 USD
+Research & Development Budget: $3,200,000 USD
+Active AI Projects: 18
+
+Key Milestones:
+1. In Q1 2024, Datheon launched its flagship multi-modal reasoning engine.
+2. In Q3 2025, Datheon expanded operations to Singapore and Tokyo.
+3. Employee growth rate in 2025 was 35% year-over-year.
+
+Contact Information:
+Email: contact@datheon.example.com
+Support Portal: https://support.datheon.example.com
